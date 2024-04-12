@@ -1,6 +1,5 @@
 <h2> Hi, I'm Matthias Sommer! </h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>
   <em>
     Software Development Manager at <a href="https://www.aracom.de">AraCom IT Services</a>,</em><br />
