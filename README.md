@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>
   <em>
-    Software Development Manager at <a href="https://www.aracom.de">AraCom IT Services</a>,
+    Software Development Manager at <a href="https://www.aracom.de">AraCom IT Services</a>,</em><br />
     Community Leader "Artificial Intelligence / Machine Learning" at <a href="https://www.aracom.de">AraCom IT Services</a>
   </em>
 </p>
@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/github/followers/matthiassommer?label=follow&style=social)](https://github.com/matthiassommer)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const ms = {
