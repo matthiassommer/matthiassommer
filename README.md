@@ -1,9 +1,8 @@
 <h2> Hi, I'm Matthias Sommer! </h2>
 
 <p>
-  <em>
-    Software Development Manager at <a href="https://www.aracom.de">AraCom IT Services</a>,</em><br />
-    Community Leader "Artificial Intelligence / Machine Learning" at <a href="https://www.aracom.de">AraCom IT Services</a>
+  <em>Software Development Manager</em><br /> and 
+    Community Leader "Artificial Intelligence / Machine Learning"
   </em>
 </p>
 
